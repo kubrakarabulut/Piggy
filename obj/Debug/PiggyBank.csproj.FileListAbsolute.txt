@@ -1,0 +1,9 @@
+C:\Users\fkkarabulut\Desktop\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\fkkarabulut\Desktop\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\fkkarabulut\Desktop\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\fkkarabulut\Desktop\PiggyBank\obj\Debug\PiggyBank.csprojAssemblyReference.cache
+C:\Users\fkkarabulut\Desktop\PiggyBank\obj\Debug\PiggyBank.Form1.resources
+C:\Users\fkkarabulut\Desktop\PiggyBank\obj\Debug\PiggyBank.Properties.Resources.resources
+C:\Users\fkkarabulut\Desktop\PiggyBank\obj\Debug\PiggyBank.csproj.GenerateResource.cache
+C:\Users\fkkarabulut\Desktop\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\fkkarabulut\Desktop\PiggyBank\obj\Debug\PiggyBank.pdb
